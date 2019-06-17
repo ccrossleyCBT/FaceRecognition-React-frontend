@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './ImageLinkForm.scss';
 
 const ImageLinkForm = ({ value, handleChange, handleSubmit }) => {
